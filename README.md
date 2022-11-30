@@ -1,4 +1,4 @@
-# Analytics-Workshop-2
+# Analytics-Workshop2
 
 ## [Prerequisites](prerequisite.md)
 
